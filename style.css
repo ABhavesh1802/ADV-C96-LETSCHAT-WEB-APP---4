@@ -1,0 +1,19 @@
+button{
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+body{
+    background-color: blue;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+}
+
+#logout
+{
+    background-color: rgb(229, 69, 69);
+}
